@@ -1,6 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20Juhun's%20Github&fontSize=60&reversal=false)
+
+<div align="left">
+
 -------
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhun0617&count_bg=%2345F2A0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+
 [![Juhun's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhun0617&show=,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
@@ -23,7 +28,7 @@
 <p><strong>Backend</strong></p>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <!-- Database -->
 <p><strong>Database</strong></p>
@@ -38,20 +43,20 @@
 <!-- Framework -->
 <p><strong>Framework</strong></p>
 <div>
-<img src="https://img.shields.io/badge/-Spring-brightgreen?style=flat-square&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/-Spring_Boot-brightgreen?style=flat-square&logo=spring%20boot&logoColor=white">
-<img src="https://img.shields.io/badge/-Flutter-%2302569B?style=flat-square&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/-Spring-brightgreen?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/-Spring_Boot-brightgreen?style=for-the-badge&logo=spring%20boot&logoColor=white">
+<img src="https://img.shields.io/badge/-Flutter-%2302569B?style=for-the-badge&logo=dart&logoColor=white">
 </div>
 <!-- Development Tools -->
 <p><strong>Development Tools</strong></p>
 <div>
-<img src="https://img.shields.io/badge/-intellijidea-%23000000?style=flat-square&logo=intellijidea&logoColor=white">
-<img src="https://img.shields.io/badge/-androidstudio-%2334A853?style=flat-square&logo=androidstudio&logoColor=white">
-<img src="https://img.shields.io/badge/-vim-%23019733?style=flat-square&logo=vim&logoColor=white">
+<img src="https://img.shields.io/badge/-intellijidea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/-androidstudio-%2334A853?style=for-the-badge&logo=androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/-vim-%23019733?style=for-the-badge&logo=vim&logoColor=white">
 </div>
 <!-- Others -->
 <p><strong>Others</strong></p>
 <div>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 </div><br>
 </div>
